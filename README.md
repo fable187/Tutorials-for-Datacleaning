@@ -8,7 +8,7 @@ Created By:  Padraic Gilbert
 
 
 
-Thanks for your insterest in my formatter.  I created this tool to deal with large fixed width text files.  Large in this context is something +200K rows.  
+Thanks for your interest in my formatter.  I created this tool to deal with large fixed width text files.  Large in this context is something +200K rows.  
 It uses pandas to format the text file based on the layout file its provided.   
 
 
