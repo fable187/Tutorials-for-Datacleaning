@@ -17,6 +17,5 @@ This requires to inputs:
 1)  A Layout File.  This just needs to be a two columned file, in first column you need the column names for your fixed width file.  The second column should have the widths for Each Column
 in your File.  
 
-2) A save folder and name you want to save your excel or database file under.  
-
+2) A save folder and name you want to save your csv as. 
 
